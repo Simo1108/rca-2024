@@ -1,0 +1,9 @@
+.body{
+    background-color: olivedrab;
+    
+}
+@media (min-width: 600px) and (max-width: 768px) {
+    body {
+      background-color: #de3163;
+    }
+  }
